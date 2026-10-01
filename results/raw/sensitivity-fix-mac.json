@@ -1,0 +1,62 @@
+{
+ "n": 10,
+ "reps": 5,
+ "forks": 1,
+ "forks_passed": 0,
+ "rows": [
+  {
+   "tool": "viddik",
+   "mode": "verify",
+   "forks": 1,
+   "n": 10,
+   "seconds": 3.265,
+   "test_seconds": 2.984,
+   "exit": 0,
+   "tests": 10,
+   "failures": 0,
+   "peak_rss_mb": 0,
+   "valid": true,
+   "phase": "perturb-none",
+   "caught": 0
+  },
+  {
+   "tool": "viddik",
+   "mode": "verify",
+   "forks": 1,
+   "n": 10,
+   "seconds": 3.324,
+   "test_seconds": 2.698,
+   "exit": 1,
+   "tests": 10,
+   "failures": 2,
+   "peak_rss_mb": 0,
+   "valid": false,
+   "phase": "perturb-dot",
+   "caught": 2
+  },
+  {
+   "tool": "viddik",
+   "mode": "verify",
+   "forks": 1,
+   "n": 10,
+   "seconds": 3.052,
+   "test_seconds": 2.809,
+   "exit": 1,
+   "tests": 10,
+   "failures": 10,
+   "peak_rss_mb": 0,
+   "valid": false,
+   "phase": "perturb-word",
+   "caught": 10
+  }
+ ],
+ "monotonic_total": 54.905,
+ "loadavg_at_start": [
+  "3.07",
+  "3.05",
+  "2.78"
+ ],
+ "nproc": 8,
+ "java_home": "Amazon Corretto 21.0.5 (macOS arm64)",
+ "gradle_args": []
+}

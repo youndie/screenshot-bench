@@ -1,0 +1,11 @@
+# viddik 0.6.1.42 (youndie/viddik#47, 835ba8c): the 16-px floor absorbs only pixels within a
+# channel delta of 96. Measured on macOS M1, 01.10.2026; the build machine was unreachable.
+
+Sensitivity, N=10 (sensitivity-fix-mac.json, sensitivity-fix-strict-mac.json):
+  default (0.05% share)            full stop caught 2/10, first letter -> X 10/10, unchanged 0/10 failed
+  -PbenchStrict (0% share, 0 ch.)  full stop caught 10/10, first letter -> X 10/10, unchanged 0/10 failed
+  failure message: 12-13/230400 px differ, max channel delta 223
+
+Linux goldens (results/raw/goldens-linux/viddik, N=50) verified on macOS:
+  default  0/50 failed
+  strict   0/50 failed

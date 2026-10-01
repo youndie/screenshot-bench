@@ -1,0 +1,15 @@
+n10 rc=0 mac_seconds=391.165
+n50 rc=0 mac_seconds=512.747
+n200 rc=0 mac_seconds=789.918
+n200-f4 rc=0 mac_seconds=239.733
+n50-viddik-f1 rc=0 mac_seconds=101.399
+n200-viddik-f1 rc=0 mac_seconds=159.679
+n200-viddik-f4 rc=0 mac_seconds=43.918
+n1000-f1 rc=0 mac_seconds=1260.463
+n2000-f1 rc=0 mac_seconds=1885.591
+n1000-f4 rc=0 mac_seconds=481.124
+n2000-f4 rc=0 mac_seconds=711.138
+n2000-f1-viddik rc=0 mac_seconds=421.733
+n2000-f4-viddik rc=0 mac_seconds=116.388
+n1000-f1-viddik rc=0 mac_seconds=222.24
+n1000-f4-viddik rc=0 mac_seconds=85.704

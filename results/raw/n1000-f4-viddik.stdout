@@ -1,0 +1,8 @@
+{"tool": "viddik", "mode": "record", "forks": 4, "n": 1000, "seconds": 21.414, "test_seconds": 38.998, "exit": 0, "tests": 1000, "failures": 0, "peak_rss_mb": 1640, "valid": true, "phase": "warmup"}
+{"tool": "viddik", "mode": "record", "forks": 4, "n": 1000, "seconds": 10.285, "test_seconds": 30.596, "exit": 0, "tests": 1000, "failures": 0, "peak_rss_mb": 1528, "valid": true, "phase": "warm"}
+{"tool": "viddik", "mode": "verify", "forks": 4, "n": 1000, "seconds": 9.743, "test_seconds": 29.097, "exit": 0, "tests": 1000, "failures": 0, "peak_rss_mb": 1544, "valid": true, "phase": "warm"}
+{"tool": "viddik", "mode": "record", "forks": 4, "n": 1000, "seconds": 10.516, "test_seconds": 38.944, "exit": 0, "tests": 1000, "failures": 0, "peak_rss_mb": 1517, "valid": true, "phase": "warm"}
+{"tool": "viddik", "mode": "verify", "forks": 4, "n": 1000, "seconds": 9.365, "test_seconds": 27.857, "exit": 0, "tests": 1000, "failures": 0, "peak_rss_mb": 1477, "valid": true, "phase": "warm"}
+{"tool": "viddik", "mode": "record", "forks": 4, "n": 1000, "seconds": 9.509, "test_seconds": 28.287, "exit": 0, "tests": 1000, "failures": 0, "peak_rss_mb": 1536, "valid": true, "phase": "warm"}
+{"tool": "viddik", "mode": "verify", "forks": 4, "n": 1000, "seconds": 10.02, "test_seconds": 30.33, "exit": 0, "tests": 1000, "failures": 0, "peak_rss_mb": 1565, "valid": true, "phase": "warm"}
+DONE results/raw/n1000-f4-viddik.json monotonic_total=80.895

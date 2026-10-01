@@ -1,0 +1,15 @@
+{"tool": "viddik", "mode": "record", "forks": 1, "n": 50, "seconds": 16.033, "test_seconds": 2.214, "exit": 0, "tests": 50, "failures": 0, "peak_rss_mb": 341, "valid": true, "phase": "warmup"}
+{"tool": "viddik", "mode": "record", "forks": 1, "n": 50, "seconds": 4.023, "test_seconds": 2.097, "exit": 0, "tests": 50, "failures": 0, "peak_rss_mb": 370, "valid": true, "phase": "warm"}
+{"tool": "viddik", "mode": "verify", "forks": 1, "n": 50, "seconds": 4.324, "test_seconds": 2.347, "exit": 0, "tests": 50, "failures": 0, "peak_rss_mb": 317, "valid": true, "phase": "warm"}
+{"tool": "viddik", "mode": "record", "forks": 1, "n": 50, "seconds": 4.62, "test_seconds": 2.447, "exit": 0, "tests": 50, "failures": 0, "peak_rss_mb": 363, "valid": true, "phase": "warm"}
+{"tool": "viddik", "mode": "verify", "forks": 1, "n": 50, "seconds": 5.204, "test_seconds": 2.838, "exit": 0, "tests": 50, "failures": 0, "peak_rss_mb": 374, "valid": true, "phase": "warm"}
+{"tool": "viddik", "mode": "record", "forks": 1, "n": 50, "seconds": 4.777, "test_seconds": 2.427, "exit": 0, "tests": 50, "failures": 0, "peak_rss_mb": 359, "valid": true, "phase": "warm"}
+{"tool": "viddik", "mode": "verify", "forks": 1, "n": 50, "seconds": 4.559, "test_seconds": 2.451, "exit": 0, "tests": 50, "failures": 0, "peak_rss_mb": 375, "valid": true, "phase": "warm"}
+{"tool": "viddik", "mode": "record", "forks": 1, "n": 50, "seconds": 4.407, "test_seconds": 2.491, "exit": 0, "tests": 50, "failures": 0, "peak_rss_mb": 366, "valid": true, "phase": "warm"}
+{"tool": "viddik", "mode": "verify", "forks": 1, "n": 50, "seconds": 4.436, "test_seconds": 2.356, "exit": 0, "tests": 50, "failures": 0, "peak_rss_mb": 364, "valid": true, "phase": "warm"}
+{"tool": "viddik", "mode": "record", "forks": 1, "n": 50, "seconds": 4.229, "test_seconds": 2.413, "exit": 0, "tests": 50, "failures": 0, "peak_rss_mb": 364, "valid": true, "phase": "warm"}
+{"tool": "viddik", "mode": "verify", "forks": 1, "n": 50, "seconds": 4.39, "test_seconds": 2.379, "exit": 0, "tests": 50, "failures": 0, "peak_rss_mb": 329, "valid": true, "phase": "warm"}
+{"tool": "viddik", "mode": "verify", "forks": 1, "n": 50, "seconds": 11.231, "test_seconds": 2.358, "exit": 0, "tests": 50, "failures": 0, "peak_rss_mb": 363, "valid": true, "phase": "cold-daemon"}
+{"tool": "viddik", "mode": "verify", "forks": 1, "n": 50, "seconds": 11.67, "test_seconds": 2.701, "exit": 0, "tests": 50, "failures": 0, "peak_rss_mb": 367, "valid": true, "phase": "cold-daemon"}
+{"tool": "viddik", "mode": "verify", "forks": 1, "n": 50, "seconds": 10.759, "test_seconds": 2.359, "exit": 0, "tests": 50, "failures": 0, "peak_rss_mb": 368, "valid": true, "phase": "cold-daemon"}
+DONE results/raw/n50-viddik-f1.json monotonic_total=96.729

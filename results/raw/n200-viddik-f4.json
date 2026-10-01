@@ -1,0 +1,113 @@
+{
+ "n": 200,
+ "reps": 3,
+ "forks": 4,
+ "rows": [
+  {
+   "tool": "viddik",
+   "mode": "record",
+   "forks": 4,
+   "n": 200,
+   "seconds": 11.971,
+   "test_seconds": 9.823,
+   "exit": 0,
+   "tests": 200,
+   "failures": 0,
+   "peak_rss_mb": 1356,
+   "valid": true,
+   "phase": "warmup"
+  },
+  {
+   "tool": "viddik",
+   "mode": "record",
+   "forks": 4,
+   "n": 200,
+   "seconds": 5.044,
+   "test_seconds": 9.945,
+   "exit": 0,
+   "tests": 200,
+   "failures": 0,
+   "peak_rss_mb": 1357,
+   "valid": true,
+   "phase": "warm"
+  },
+  {
+   "tool": "viddik",
+   "mode": "verify",
+   "forks": 4,
+   "n": 200,
+   "seconds": 4.853,
+   "test_seconds": 9.815,
+   "exit": 0,
+   "tests": 200,
+   "failures": 0,
+   "peak_rss_mb": 1371,
+   "valid": true,
+   "phase": "warm"
+  },
+  {
+   "tool": "viddik",
+   "mode": "record",
+   "forks": 4,
+   "n": 200,
+   "seconds": 4.855,
+   "test_seconds": 9.931,
+   "exit": 0,
+   "tests": 200,
+   "failures": 0,
+   "peak_rss_mb": 1411,
+   "valid": true,
+   "phase": "warm"
+  },
+  {
+   "tool": "viddik",
+   "mode": "verify",
+   "forks": 4,
+   "n": 200,
+   "seconds": 4.886,
+   "test_seconds": 9.93,
+   "exit": 0,
+   "tests": 200,
+   "failures": 0,
+   "peak_rss_mb": 1380,
+   "valid": true,
+   "phase": "warm"
+  },
+  {
+   "tool": "viddik",
+   "mode": "record",
+   "forks": 4,
+   "n": 200,
+   "seconds": 4.86,
+   "test_seconds": 15.516,
+   "exit": 0,
+   "tests": 200,
+   "failures": 0,
+   "peak_rss_mb": 1392,
+   "valid": true,
+   "phase": "warm"
+  },
+  {
+   "tool": "viddik",
+   "mode": "verify",
+   "forks": 4,
+   "n": 200,
+   "seconds": 4.899,
+   "test_seconds": 11.161,
+   "exit": 0,
+   "tests": 200,
+   "failures": 0,
+   "peak_rss_mb": 1395,
+   "valid": true,
+   "phase": "warm"
+  }
+ ],
+ "monotonic_total": 41.386,
+ "loadavg_at_start": [
+  "3.00",
+  "3.96",
+  "3.44"
+ ],
+ "nproc": 20,
+ "java_home": "/usr/lib/jvm/java-21-openjdk-amd64"
+}

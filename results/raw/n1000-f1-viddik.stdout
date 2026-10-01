@@ -1,0 +1,9 @@
+{"tool": "viddik", "mode": "record", "forks": 1, "n": 1000, "seconds": 28.012, "test_seconds": 19.118, "exit": 0, "tests": 1000, "failures": 0, "peak_rss_mb": 574, "valid": true, "phase": "warmup"}
+{"tool": "viddik", "mode": "record", "forks": 1, "n": 1000, "seconds": 25.125, "test_seconds": 21.761, "exit": 0, "tests": 1000, "failures": 0, "peak_rss_mb": 388, "valid": true, "phase": "warm"}
+{"tool": "viddik", "mode": "verify", "forks": 1, "n": 1000, "seconds": 25.036, "test_seconds": 24.855, "exit": 0, "tests": 1000, "failures": 0, "peak_rss_mb": 411, "valid": true, "phase": "warm"}
+{"tool": "viddik", "mode": "record", "forks": 1, "n": 1000, "seconds": 25.713, "test_seconds": 25.047, "exit": 0, "tests": 1000, "failures": 0, "peak_rss_mb": 359, "valid": true, "phase": "warm"}
+{"tool": "viddik", "mode": "verify", "forks": 1, "n": 1000, "seconds": 24.178, "test_seconds": 23.829, "exit": 0, "tests": 1000, "failures": 0, "peak_rss_mb": 434, "valid": true, "phase": "warm"}
+{"tool": "viddik", "mode": "record", "forks": 1, "n": 1000, "seconds": 25.34, "test_seconds": 23.163, "exit": 0, "tests": 1000, "failures": 0, "peak_rss_mb": 416, "valid": true, "phase": "warm"}
+{"tool": "viddik", "mode": "verify", "forks": 1, "n": 1000, "seconds": 24.154, "test_seconds": 22.065, "exit": 0, "tests": 1000, "failures": 0, "peak_rss_mb": 385, "valid": true, "phase": "warm"}
+{"tool": "viddik", "mode": "verify", "forks": 1, "n": 1000, "seconds": 32.138, "test_seconds": 22.918, "exit": 0, "tests": 1000, "failures": 0, "peak_rss_mb": 407, "valid": true, "phase": "cold-daemon"}
+DONE results/raw/n1000-f1-viddik.json monotonic_total=210.419

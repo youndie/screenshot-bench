@@ -1,0 +1,12 @@
+# N=50 recorded on Linux (WSL2, amd64) and on macOS (M1, arm64); pixel comparison, no tool tolerance
+viddik: 50 compared, 38 identical, median 0.000% px differ, worst bench_f043.png 13 px (0.006%), max channel delta 47
+roborazzi-desktop: 50 compared, 0 identical, median 4.253% px differ, worst f004.png 20345 px (8.830%), max channel delta 255
+roborazzi-desktop-font: 50 compared, 0 identical, median 1.651% px differ, worst f024.png 8167 px (3.545%), max channel delta 138
+roborazzi-android: 50 compared, 50 identical, median 0.000% px differ, worst f000.png 0 px (0.000%), max channel delta 0
+paparazzi: 50 compared, 50 identical, median 0.000% px differ, worst bench_PaparazziTest00_f000.png 0 px (0.000%), max channel delta 0
+
+# Each tool's own verify on macOS against the Linux goldens, default settings
+viddik: 0/50 failed
+roborazzi-desktop: 50/50 failed
+roborazzi-android: 0/50 failed
+paparazzi: 0/50 failed

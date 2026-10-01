@@ -1,0 +1,10 @@
+build/
+.gradle/
+.kotlin/
+.idea/
+local.properties
+.DS_Store
+results/raw/goldens-*
+results/raw/*.tgz
+results/raw/*.log
+paparazzi/src/test/snapshots/
